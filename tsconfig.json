@@ -1,0 +1,11 @@
+{
+    "references": [{
+        "path": "packages/sync_worker"
+    }],
+    "files": [],
+    "include": [],
+    "compilerOptions": {
+        "composite": true,
+        "incremental": true
+    }
+}
